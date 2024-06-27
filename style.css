@@ -8,7 +8,7 @@ body {
 }
 
 .text{
-    color: green;
+    color: #009933;;
 }
 
 .navbar{
@@ -32,4 +32,18 @@ body {
     z-index: 2;
     transition: 0.3s;
     box-shadow: 0 0 20px 5px black;
+}
+
+.text-bg{
+    background-color: #009933;;
+    color: white;
+}
+
+.icon{
+    height: 150px;
+}
+
+.gredient{
+    background-image: url(background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% ););
+    height: 500px;
 }
