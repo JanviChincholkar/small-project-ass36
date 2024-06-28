@@ -37,6 +37,7 @@ body {
 .text-bg{
     background-color: #009933;;
     color: white;
+    padding: 5px;
 }
 
 .icon{
@@ -46,4 +47,14 @@ body {
 .gredient{
     background-image: url(background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% ););
     height: 500px;
+}
+
+.sweet {
+    height: 500px;
+    width: 100%;
+    margin-left: 50%;
+}
+
+.dish-name{
+    margin-left: 10%;
 }
