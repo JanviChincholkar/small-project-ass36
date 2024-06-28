@@ -1,5 +1,5 @@
 .foot {
-    color: #009933;
+    color: #fcba03;
     margin-bottom: 30px;
     font-size: 30px;
    
@@ -10,7 +10,7 @@ padding-left: 30px;
 
 hr{
     width: 80px;
-    color: #009933;
+    color: #fcba03;
     height: 3px !important;
 }
 
@@ -37,7 +37,7 @@ hr{
     position: absolute;
     left: 39%;
     font-size: 30px;
-    color: #009933;
+    color: #fcba03;
     padding-left: 30px;
     padding-top:30px;
   
@@ -56,7 +56,7 @@ hr{
     position: absolute;
     right: 1%;
     font-size: 30px;
-    color: #009933;
+    color: #fcba03;
     padding-top: 30px;
     padding-left: 30px;
  
@@ -75,7 +75,7 @@ hr{
 }
 
 .fa-brand:hover{
-    color: #009933;
+    color: #fcba03
     
 }
 .b:hover {
